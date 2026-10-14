@@ -219,7 +219,7 @@ GitHub Pages can host this static website for free on a public repository, subje
 Your site URL will generally follow this format:
 
 ```text
-https://YOUR-USERNAME.github.io/dip-studyspace/
+https://github.com/ritikoo7/dip-studyspace
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username. If you choose a different repository name, update the URL accordingly.
